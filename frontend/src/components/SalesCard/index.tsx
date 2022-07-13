@@ -95,4 +95,4 @@ function SalesCard() {
     )
 }
 
-export default SalesCard
+export default SalesCard;
